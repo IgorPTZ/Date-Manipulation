@@ -4,7 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-public class UtilizandoCalendar {
+public class UsoDoCalendar {
 	
 	public static void main(String[] args) throws ParseException  {
 		

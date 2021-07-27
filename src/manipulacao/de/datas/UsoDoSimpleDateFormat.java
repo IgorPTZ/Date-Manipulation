@@ -4,7 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class UtilizandoSimpleDateFormat {
+public class UsoDoSimpleDateFormat {
 	
 	public static void main(String[] args) throws ParseException {
 		
